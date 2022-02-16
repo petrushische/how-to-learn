@@ -36,6 +36,8 @@
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .header__subtitle {
@@ -289,6 +291,7 @@
   min-height: 350px;
   display: flex;
   justify-content: center;
+  box-sizing: border-box;
 }
 
 .footer__columns {
