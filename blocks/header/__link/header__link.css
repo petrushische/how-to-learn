@@ -7,3 +7,6 @@
   opacity: 1;
   transition: opacity 1s ease;
 }
+.header__link:hover {
+  opacity: .5;
+}

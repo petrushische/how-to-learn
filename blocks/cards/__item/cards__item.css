@@ -4,3 +4,7 @@
   flex-direction: column;
   margin-right: 100px;
 }
+
+.cards__item:nth-of-type(3n) {
+  margin: 0;
+}
