@@ -60,11 +60,10 @@
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
-@import url(../blocks/two-columns/__paragraph/nth-of-type/two-columns__paragraph-nth-of-type.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 
 @import url(../blocks/techniques/techniques.css);
-@import url(../blocks/margin-for-techniques/margin-for-techniques.css);
+@import url(../blocks/techniques/__margin/techniques__margin.css);
 
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__description/cards__desscription.css);
@@ -78,7 +77,7 @@
 @import url(../blocks/video/__iframes/video__iframes.css);
 
 @import url(../blocks/oakley/oakley.css);
-@import url(../blocks/margin-for-oakley/margin-for-oakley.css);
+@import url(../blocks/oakley/__margin/oakley__margin.css);
 
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__author/khan__author.css);
